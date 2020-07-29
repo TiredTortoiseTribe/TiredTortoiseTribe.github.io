@@ -1,7 +1,7 @@
 @import
 url('https://fonts.googleapis.com/css?family=Lato');
 body{
-    background-color: #4b757e;
+    background-color: #cce1c2;
     margin:2px;
     font-family: 'Lato', sans-serif;
     max-width: auto;
@@ -25,7 +25,7 @@ body{
 }
 */
 .logo{
-  margin-left: 35px;
+  margin-left: 45px;
   width: 280;
   height: 280;
 
