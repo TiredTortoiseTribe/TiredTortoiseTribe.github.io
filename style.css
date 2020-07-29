@@ -13,6 +13,7 @@ body{
     height:220px;
 }
 .nav{
+    max-width: 1200;
     float: top;
     margin-right: 45px;
 }
