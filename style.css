@@ -9,7 +9,7 @@ body{
     margin-right: auto;
 }
 .header{
-    background-color:black;
+    background-color:white;
     height:200px;
 }
 .nav{
@@ -23,7 +23,6 @@ body{
   height: 200;
 }
 .links{
-    margin-right:65px;
     padding-bottom: 35px;
     font-size:0.9rem;
     color:#d08368;
