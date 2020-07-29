@@ -1,20 +1,19 @@
 @import
 url('https://fonts.googleapis.com/css?family=Lato');
 body{
-    background-color: white;
+    background-color: #4b757e;
     margin:2px;
     font-family: 'Lato', sans-serif;
-    max-width: 950px;
+    max-width: auto;
     margin-left: auto;
     margin-right: auto;
 }
 .header{
-    background-color:black;
+    background-color:;
     color:white;
     height:300px;
 }
 .nav{
-    max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -31,16 +30,8 @@ body{
   height: 280;
 
 }
-
-.slogan{
-    float:bottom;
-    margin-bottom:40px;
-    font-family:cursive;
-    font-size:0.9rem;
-}
 .links{
     float:right;
-    margin-top:40px;
     margin-right:20px;
     font-size:0.9rem;
     color:#4b757e;
@@ -51,7 +42,7 @@ body{
     font-family: cursive;
 }
 .links a:hover{
-    color:red;
+    color:#4b757e;
 }
 .center{
     height:1000px;
