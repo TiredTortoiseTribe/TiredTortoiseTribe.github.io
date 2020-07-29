@@ -1,7 +1,7 @@
 @import
 url('https://fonts.googleapis.com/css?family=Lato');
 body{
-    background-color: black;
+    background-color: white;
     margin:2px;
     font-family: 'Lato', sans-serif;
     max-width: 950px;
@@ -43,7 +43,7 @@ body{
     margin-top:40px;
     margin-right:20px;
     font-size:0.9rem;
-    color:red;
+    color:#4b757e;
 }
 .links a{
     padding:15px;
