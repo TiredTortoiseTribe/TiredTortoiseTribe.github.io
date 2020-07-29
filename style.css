@@ -13,8 +13,7 @@ body{
     height:200px;
 }
 .nav{
-    max-width: 1200;
-    float: top;
+    float: right;
     margin-right: 45px;
 }
 .logo{
