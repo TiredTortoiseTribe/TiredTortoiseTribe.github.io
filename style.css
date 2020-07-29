@@ -56,6 +56,48 @@ body{
     height:797px;
     margin-top:60px;
 }
+.about{
+    width: 450px;
+    height: 500px;
+    float:right;
+}
+.content img{
+    width: 333px;
+    height: 500px;
+    float:bottom;
+    float:left;
+}
+.box {
+    width:900px;
+    height:307px;
+    margin-top:20px;
+    border-bottom:3px gray;
+}
+.box img{
+    width:60%;
+    height:300px;
+    float:right;
+}
+.text{
+    font-size:0.8rem;
+    float: left;
+    width: 40%;
+}
+.contact{
+    float:right;
+    margin-top:100px;
+    width: 40%;
+    color: black;
+    font-size:1rem;
+}
+.contact img{
+    max-width: 50px;
+    max-height: 50px;
+    float: bottom;
+    float: right;
+    margin-top: 40px;
+    margin-right: 70px;
+}
 .footer{
     max-width: 950px;
     height:100px;
