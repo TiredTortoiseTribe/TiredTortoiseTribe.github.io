@@ -34,15 +34,15 @@ body{
     float:right;
     margin-right:20px;
     font-size:0.9rem;
-    color:#4b757e;
+    color:#d08368;
 }
 .links a{
     padding:15px;
-    color:white;
+    color:#4b757e;
     font-family: cursive;
 }
 .links a:hover{
-    color:#4b757e;
+    color:#d08368;
 }
 .center{
     height:1000px;
