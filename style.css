@@ -17,19 +17,10 @@ body{
     float: top;
     margin-right: 45px;
 }
-/*.logo{
-    float:left;
-    margin-top: 35px;
-    margin-left: 35px;
-    font-family:cursive;
-    font-size:1.8rem;
-}
-*/
 .logo{
   margin-left: 65px;
   width: 200;
   height: 200;
-
 }
 .links{
     margin-right:65px;
