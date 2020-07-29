@@ -9,12 +9,11 @@ body{
     margin-right: auto;
 }
 .header{
-    background-color:;
-    color:white;
+    background-color:black;
     height:300px;
 }
 .nav{
-    margin-left: auto;
+    float: top;
     margin-right: auto;
 }
 /*.logo{
