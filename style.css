@@ -18,13 +18,21 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
-.logo{
+/*.logo{
     float:left;
     margin-top: 35px;
     margin-left: 35px;
     font-family:cursive;
     font-size:1.8rem;
 }
+*/
+.logo{
+  width: 250;
+  height: 250;
+
+
+}
+
 .slogan{
     float:bottom;
     margin-bottom:40px;
