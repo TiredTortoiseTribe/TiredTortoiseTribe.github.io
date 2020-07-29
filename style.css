@@ -10,26 +10,25 @@ body{
 }
 .header{
     background-color:white;
-    height:200px;
+    height:100px;
 }
 .nav{
     float: top;
 
 }
 .logo{
-  margin-left: 65px;
-  width: 180;
-  height: 180;
+  margin-left: 45px;
+  width: 100px;
+  height: 100px;
 }
 .links{
     padding-bottom: 35px;
-    font-size:0.9rem;
+    font-size:1rem;
     color:#d08368;
 }
 .links a{
     padding:15px;
     color:#bfd9bd;
-    font-family: cursive;
 }
 .links a:hover{
     color:#d08368;
