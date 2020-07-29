@@ -14,7 +14,7 @@ body{
 }
 .nav{
     float: top;
-    margin-right: auto;
+    margin-right: 45px;
 }
 /*.logo{
     float:left;
@@ -25,6 +25,7 @@ body{
 }
 */
 .logo{
+  margin-left: 35px;
   width: 280;
   height: 280;
 
