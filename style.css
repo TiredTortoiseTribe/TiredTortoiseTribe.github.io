@@ -10,17 +10,16 @@ body{
 }
 .header{
     background-color:white;
-    height:250px;
+    height:200px;
 }
 .nav{
-    float: right;
-    padding-bottom: 65px;
-    margin-right: 45px;
+    float: top;
+
 }
 .logo{
   margin-left: 65px;
-  width: 200;
-  height: 200;
+  width: 180;
+  height: 180;
 }
 .links{
     padding-bottom: 35px;
