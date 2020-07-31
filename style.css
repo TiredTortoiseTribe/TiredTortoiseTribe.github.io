@@ -14,6 +14,7 @@ body{
 }
 .nav{
     float: right;
+    padding-right: 45px;
 }
 .logo{
   margin-left: 45px;
