@@ -27,7 +27,8 @@ body{
     margin: auto;
     width: 100%;
     padding-bottom: 65px;
-    font-size:1.2rem;
+    text-decoration-style: double;
+    font-size:1.1rem;
     color:#d78e61;
 }
 .links a{
