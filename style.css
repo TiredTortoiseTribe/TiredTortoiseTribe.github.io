@@ -39,10 +39,11 @@ body{
     color:#99cccc;
 }
 .center{
+    padding-top: 100px;
     color:#508784;
     text-align: center;
     margin: auto;
-    width: 75%;
+    width: 60%;
     height:1200px;
     padding: 20px;
 }
