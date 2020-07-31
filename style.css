@@ -92,6 +92,7 @@ body{
     margin-right: 70px;
 }
 .footer{
+    text-align: center;
     height:100px;
     padding:20px;
     background-color: white;
