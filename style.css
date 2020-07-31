@@ -15,7 +15,7 @@ body{
 .nav{
     float: right;
     padding-right: 65px;
-    padding-bottom: 65px;
+    padding-bottom: 80px;
 }
 .logo{
   float: left;
@@ -27,7 +27,7 @@ body{
     margin: auto;
     width: 100%;
     padding-bottom: 65px;
-    font-size:1.5rem;
+    font-size:1.2rem;
     color:#d78e61;
 }
 .links a{
@@ -41,7 +41,7 @@ body{
     color:#508784;
     text-align: center;
     margin: auto;
-    width: 100%;
+    width: 75%;
     height:1200px;
     padding: 20px;
 }
