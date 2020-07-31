@@ -20,7 +20,8 @@ body{
 .logo{
   float: left;
   margin:auto;
-  padding-left: 65px;
+  padding-left: 85px;
+  padding-top: 85px;
   width: 100%;
 }
 .links{
