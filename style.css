@@ -2,6 +2,7 @@
 url('https://fonts.googleapis.com/css?family=Lato');
 body{
     background-color:;
+    border: 2px solid black;
     margin:2px;
     font-family: 'Lato', sans-serif;
     max-width: auto;
@@ -27,8 +28,8 @@ body{
 .links{
     margin: auto;
     width: 100%;
-    padding-bottom: 65px;
-    text-decoration-style: double;
+    margin-bottom: 65px;
+    font-weight: bold;
     font-size:1rem;
     color:#d78e61;
 }
@@ -44,9 +45,9 @@ body{
     color:#508784;
     text-align: center;
     margin: auto;
-    width: 60%;
+    width: 50%;
     height:1200px;
-    padding: 20px;
+    padding: 10px;
 }
 .center img{
     margin: auto;
