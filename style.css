@@ -1,7 +1,7 @@
 @import
 url('https://fonts.googleapis.com/css?family=Lato');
 body{
-    background-color: #99cccc;
+    background-color:;
     margin:2px;
     font-family: 'Lato', sans-serif;
     max-width: auto;
@@ -24,7 +24,7 @@ body{
 .links{
     padding-bottom: 65px;
     font-size:1rem;
-    color:#b04133;
+    color:#d78e61;
 }
 .links a{
     padding:15px;
@@ -34,17 +34,15 @@ body{
     color:#99cccc;
 }
 .center{
-    float: center;
-    position: absolute;
-    height:1000px;
-    max-width:auto;
+    color:#508784;
+    margin: auto;
+    width: 50%;
+    height:1200px;
     padding: 20px;
 }
 .center img{
-    position: absolute;
-    max-width:930px;
-    height:797px;
-    margin-top:60px;
+    margin: auto;
+    width: 50%;
 }
 .about{
     width: 450px;
