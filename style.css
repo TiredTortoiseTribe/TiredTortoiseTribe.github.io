@@ -20,6 +20,7 @@ body{
 .logo{
   float: left;
   margin:auto;
+  padding-left: 65px;
   width: 100%;
 }
 .links{
@@ -38,6 +39,7 @@ body{
 }
 .center{
     color:#508784;
+    text-align: center;
     margin: auto;
     width: 100%;
     height:1200px;
