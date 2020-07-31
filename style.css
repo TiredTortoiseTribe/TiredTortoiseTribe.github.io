@@ -86,10 +86,9 @@ body{
     margin-right: 70px;
 }
 .footer{
-    max-width: 950px;
     height:100px;
     padding:20px;
-    background-color: black;
+    background-color: white;
     color: white;
     font-size:0.9rem;
 }
