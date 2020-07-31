@@ -24,14 +24,14 @@ body{
 .links{
     padding-bottom: 35px;
     font-size:1rem;
-    color:#d08368;
+    color:#508784;
 }
 .links a{
     padding:15px;
     color:#bfd9bd;
 }
 .links a:hover{
-    color:#d08368;
+    color:#d17555;
 }
 .center{
     height:1000px;
