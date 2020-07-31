@@ -18,12 +18,15 @@ body{
     padding-bottom: 65px;
 }
 .logo{
-  margin-left: 45px;
-  height: 120px;
+  float: left;
+  margin:auto;
+  width: 100%;
 }
 .links{
+    margin: auto;
+    width: 100%;
     padding-bottom: 65px;
-    font-size:1rem;
+    font-size:1.5rem;
     color:#d78e61;
 }
 .links a{
@@ -36,13 +39,13 @@ body{
 .center{
     color:#508784;
     margin: auto;
-    width: 50%;
+    width: 100%;
     height:1200px;
     padding: 20px;
 }
 .center img{
     margin: auto;
-    width: 50%;
+    width: 100%;
 }
 .about{
     width: 450px;
