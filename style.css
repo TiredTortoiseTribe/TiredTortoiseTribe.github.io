@@ -1,8 +1,7 @@
 @import
 url('https://fonts.googleapis.com/css?family=Lato');
 body{
-    background-color: #cce1c2;
-    opacity: 0.5;
+    background-color: #99cccc;
     margin:2px;
     font-family: 'Lato', sans-serif;
     max-width: auto;
@@ -32,7 +31,7 @@ body{
     color:#508784;
 }
 .links a:hover{
-    color:#7fc3ad;
+    color:#99cccc;
 }
 .center{
     float: center;
