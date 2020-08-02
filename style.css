@@ -26,8 +26,7 @@ body{
 .links{
     border: 2px solid black;
     float: right;
-    margin: auto;
-    width: 100%;
+    width: 50%;
     font-weight: bold;
     font-size:1rem;
     color:#d78e61;
