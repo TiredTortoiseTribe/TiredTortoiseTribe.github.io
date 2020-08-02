@@ -16,14 +16,12 @@ body{
     border: 1px solid black;
     float: right;
     padding-right: 65px;
-    padding-bottom: 80px;
 }
 .logo{
   border: 2px solid black;
   float: left;
   margin:auto;
   margin-left: 85px;
-  padding-top: 85px;
   width: 100%;
 }
 .links{
