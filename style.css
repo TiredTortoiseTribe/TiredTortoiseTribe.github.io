@@ -31,36 +31,12 @@ body{
     color:#508784;
     text-align: center;
     margin: auto;
-    width: 65%;
+    width: 50%;
     padding: 10px;
 }
 .center img{
     margin: auto;
-    width: 65%;
-}
-.content img{
-    border: 2px solid black;
-    width: 333px;
-    height: 500px;
-    float:bottom;
-    float:left;
-}
-.box {
-    border: 2px solid black;
-    width:900px;
-    height:307px;
-    margin-top:20px;
-    border-bottom:3px gray;
-}
-.box img{
-    width:60%;
-    height:300px;
-    float:right;
-}
-.text{
-    font-size:0.8rem;
-    float: left;
-    width: 40%;
+    width: 50%;
 }
 .contact{
     border: 2px solid black;
