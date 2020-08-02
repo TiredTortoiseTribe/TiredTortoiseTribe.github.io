@@ -8,12 +8,13 @@ body{
     margin-right: auto;
 }
 .header{
-    border: 1px solid black;
+    border: 1px solid #99cccc;
     background-color:white;
     height:150px;
 }
 .links{
-    border: 1px solid black;
+    border: 1px solid #99cccc;
+    padding-top: 50px;
     float: right;
     font-weight: bold;
     font-size:1rem;
@@ -38,12 +39,6 @@ body{
 .center img{
     margin: auto;
     width: 65%;
-}
-.about{
-    border: 2px solid black;
-    width: 450px;
-    height: 500px;
-    float:right;
 }
 .content img{
     border: 2px solid black;
