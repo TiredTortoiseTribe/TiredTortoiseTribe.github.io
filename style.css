@@ -8,13 +8,11 @@ body{
     margin-right: auto;
 }
 .header{
-    border: 1px solid #99cccc;
     background-color:white;
     height:150px;
 }
 .links{
-    border: 1px solid #99cccc;
-    padding-top: 50px;
+    padding-top: 55px;
     float: right;
     font-weight: bold;
     font-size:1rem;
@@ -28,7 +26,7 @@ body{
     color:#99cccc;
 }
 .center{
-    border: 2px solid black;
+    border: 1px solid #99cccc;
     margin-top: 100px;
     color:#508784;
     text-align: center;
