@@ -13,11 +13,6 @@ body{
     background-color:white;
     height:200px;
 }
-.nav{
-    border: 1px solid black;
-    float: right;
-    padding-right: 65px;
-}
 .logo{
   float: left;
   margin:auto;
