@@ -25,6 +25,7 @@ body{
   width: 100%;
 }
 .links{
+    float: right;
     border: 2px solid black;
     margin: auto;
     width: 100%;
