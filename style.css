@@ -2,7 +2,7 @@
 url('https://fonts.googleapis.com/css?family=Lato');
 body{
     background-image: url("Bg.png");
-    background-image: opacity: 0.5;
+    opacity: 0.5,
     font-family: 'Lato', sans-serif;
     max-width: auto;
     margin-left: auto;
