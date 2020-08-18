@@ -12,7 +12,7 @@ body{
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color:white;
+    background-color:#484360;
     height:150px;
 }
 .links{
@@ -55,7 +55,7 @@ body{
     text-align: center;
     height:100px;
     padding:10px;
-    background-color: white;
+    background-color: #484360;
     font-size:0.9rem;
 }
 .footer img{
