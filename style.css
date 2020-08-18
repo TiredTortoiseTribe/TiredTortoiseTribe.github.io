@@ -8,7 +8,6 @@ body{
     margin-right: auto;
 }
 .header{
-    position: fixed;
     width: 100%;
     background-color:#a3a1af;
     height:150px;
