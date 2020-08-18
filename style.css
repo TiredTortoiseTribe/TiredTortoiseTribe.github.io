@@ -1,8 +1,7 @@
 @import
 url('https://fonts.googleapis.com/css?family=Lato');
 body{
-    background-image: url("Bg.png");
-    opacity: 0.5,
+    background-image: url("Bg50.png");
     font-family: 'Lato', sans-serif;
     max-width: auto;
     margin-left: auto;
