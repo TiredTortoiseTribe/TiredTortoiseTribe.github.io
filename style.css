@@ -1,5 +1,19 @@
 @import
 url('https://fonts.googleapis.com/css?family=Lato');
+
+html {
+  scroll-behavior: smooth;
+}
+@media only screen and (max-width: 600px) {
+  #header {
+  height: 140px;
+  width: 100%;
+  align:center;
+  border-top: #a3a1af 10px solid;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  }
+
 body{
     background-image: url("Bg50.png");
     font-family: 'Lato', sans-serif;
@@ -26,6 +40,9 @@ body{
 .links a:hover{
     color:#99cccc;
 }
+:active a{
+  color:#99cccc;
+}
 .center{
     margin-top: 100px;
     color:#508784;
@@ -38,11 +55,46 @@ body{
     margin: auto;
     width: 50%;
 }
+.btn {
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+/* On mouse-over */
+.btn:hover {background: #eee;}
+
+.register {color:#a3a1af;}
+
+
 .contact{
 
 }
 .contact img{
 
+}
+
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: #508784; /* Set a background color */
+  color: #d78e61; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+}
+
+#myBtn:hover {
+  background-color: #99cccc; /* Add a dark-grey background on hover */
 }
 .footer{
     position: fixed;
