@@ -15,6 +15,8 @@ url('https://fonts.googleapis.com/css?family=Lato');
 body{
     background-image: url("Bg50.png");
     font-family: 'Lato', sans-serif;
+    font-size:1.2rem;
+    color:#508784;
     max-width: auto;
     margin-left: auto;
     margin-right: auto;
@@ -28,7 +30,7 @@ body{
     padding-top: 55px;
     float: right;
     font-weight: bold;
-    font-size:1rem;
+    font-size:1.2rem;
     color:#d78e61;
 }
 .links a{
@@ -40,6 +42,9 @@ body{
 }
 :active a{
   color:#99cccc;
+}
+.about{
+  text-align: center;
 }
 .center{
     margin-top: 100px;
